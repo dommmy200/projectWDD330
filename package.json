@@ -1,0 +1,11 @@
+{
+  "name": "projectwdd330",
+  "version": "1.0.0",
+  "description": "Previous repos for project wdd330 were problematic and accorded me the opportunity to learn more things about Git and GitHub. This new repo should aid me in implementing all that I have learned.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abah Dominic",
+  "license": "ISC"
+}
